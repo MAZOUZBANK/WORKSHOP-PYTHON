@@ -31,6 +31,12 @@ Exercice 5: 30 min
 Créer une fonction qui, sans aucune bibliothèque return le lien de la photo de profil de la célébrité donné en argument
 
 
+
+
+
+
+
+
 Partie 2: 2h30
 
 
