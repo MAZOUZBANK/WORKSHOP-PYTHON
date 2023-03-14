@@ -1,6 +1,6 @@
 # WORKSHOP-PYTHON
 Partie 1: 2h30
-L'objectif est de découvrir le fonctionnement d'une request en python.
+L'objectif est de découvrir le fonctionnement d'une request en python.\n
 Pour ceci, il est important de comprendre l'utilisation du module requests.
 Exercice 1: 20 min (venir nous voir si difficulté)
 Effectuer une requete sur le site google.fr . Puis affichez le résultat de cette derniere
